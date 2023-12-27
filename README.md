@@ -2,7 +2,7 @@
 -  attendance-monitoring-system with face recognition
   
 ## DESCRIPTION
-- an system to monitor student attendance using face recognition.
+- a system to monitor student attendance using face recognition.
 
 ## TECHNOLOGY
 - PHP
